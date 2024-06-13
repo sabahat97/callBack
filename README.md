@@ -1,0 +1,1 @@
+Callback functions are a foundational concept in TypeScript and JavaScript for managing asynchronous operations. They enable us to execute code after a specific task is complete, which is especially important for tasks like API requests, file operations, and event handling
